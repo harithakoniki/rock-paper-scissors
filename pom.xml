@@ -23,7 +23,7 @@
       <uniqueVersion>false</uniqueVersion>
       <id>war-tomcat</id>
       <name>war-tomcat Repository</name>
-      <url>http://localhost:8085/rps</url>
+      <url>http://localhost:8085</url>
       <layout>default</layout>
     </repository>
 </distributionManagement>
